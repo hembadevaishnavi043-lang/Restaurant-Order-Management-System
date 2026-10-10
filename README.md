@@ -11,10 +11,15 @@ The purpose of this project is to understand how Stack and Queue operations work
 Features:
 
 1.Add new food orders.
+
 2.Prepare the next order.
+
 3.Display pending orders.
+
 4.Display order history.
+
 5.Remove the latest history entry.
+
 6.Exit the program.
 
 Data Structures Used:
@@ -25,4 +30,5 @@ Data Structures Used:
 Technology Used:
 
 Programming Language: Python
+
 Concepts: Stack, Queue, and Linked List
